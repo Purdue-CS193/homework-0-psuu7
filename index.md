@@ -1,3 +1,10 @@
+# psuu7's First CS193 Homework
+
+Some of my favorite things about CS193:
+- TAs are very chill
+- Homeworks are easy and straightforward
+- Teaches me terminal commands which look cool to someone who doesn't know CS
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
